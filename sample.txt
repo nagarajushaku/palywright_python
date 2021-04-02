@@ -1,0 +1,3 @@
+hi we are learning python file concept from telugu web guru nagaraju
+nagaraju welcome the readlines 
+
